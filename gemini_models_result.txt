@@ -1,0 +1,34 @@
+모델 변형 입력 출력 최적화 목표
+Gemini 2.5 Pro
+gemini-2.5-pro 오디오, 이미지, 동영상, 텍스트, PDF 텍스트 향상된 사고 및 추론, 멀티모달 이해, 고급 코딩 등
+Gemini 2.5 Flash
+gemini-2.5-flash 오디오, 이미지, 동영상, 텍스트 텍스트 적응적 사고, 비용 효율성
+Gemini 2.5 Flash-Lite 미리보기
+gemini-2.5-flash-lite-preview-06-17 텍스트, 이미지, 동영상, 오디오 텍스트 높은 처리량을 지원하는 가장 비용 효율적인 모델
+Gemini 2.5 Flash 네이티브 오디오
+gemini-2.5-flash-preview-native-audio-dialog 및
+gemini-2.5-flash-exp-native-audio-thinking-dialog 오디오, 동영상, 텍스트 텍스트 및 오디오(인터리브 처리) 사고 여부와 관계없이 고품질의 자연스러운 대화 오디오 출력
+Gemini 2.5 Flash 미리보기 TTS
+gemini-2.5-flash-preview-tts 텍스트 오디오 지연 시간이 짧고 제어 가능한 단일 및 다중 스피커 텍스트 음성 변환 오디오 생성
+Gemini 2.5 Pro 미리보기 TTS
+gemini-2.5-pro-preview-tts 텍스트 오디오 지연 시간이 짧고 제어 가능한 단일 및 다중 스피커 텍스트 음성 변환 오디오 생성
+Gemini 2.0 Flash
+gemini-2.0-flash 오디오, 이미지, 동영상, 텍스트 텍스트 차세대 기능, 속도, 실시간 스트리밍
+Gemini 2.0 Flash 미리보기 이미지 생성
+gemini-2.0-flash-preview-image-generation 오디오, 이미지, 동영상, 텍스트 텍스트, 이미지 대화형 이미지 생성 및 수정
+Gemini 2.0 Flash-Lite
+gemini-2.0-flash-lite 오디오, 이미지, 동영상, 텍스트 텍스트 비용 효율성 및 낮은 지연 시간
+Gemini 1.5 Flash
+gemini-1.5-flash 오디오, 이미지, 동영상, 텍스트 텍스트 다양한 작업에서 빠르고 다재다능한 성능
+Gemini 1.5 Flash-8B
+gemini-1.5-flash-8b 오디오, 이미지, 동영상, 텍스트 텍스트 대용량 및 낮은 인텔리전스 태스크
+Gemini 1.5 Pro
+gemini-1.5-pro 오디오, 이미지, 동영상, 텍스트 텍스트 더 많은 지능이 필요한 복잡한 추론 작업
+Gemini 삽입
+gemini-embedding-exp 텍스트 텍스트 임베딩 텍스트 문자열의 관련성 측정
+Imagen 3
+imagen-3.0-generate-002 텍스트 이미지 Google의 가장 고급 이미지 생성 모델
+Veo 2
+veo-2.0-generate-001 텍스트, 이미지 동영상 고화질 동영상 생성
+Gemini 2.0 Flash 라이브
+gemini-2.0-flash-live-001 오디오, 동영상, 텍스트 텍스트, 오디오 지연 시간이 짧은 양방향 음성 및 동영상 상호작용
